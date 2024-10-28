@@ -41,9 +41,3 @@ Percentual GC: 50%
 ```
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para melhorias ou bugs.
-
-## Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
-```r 
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
-```
