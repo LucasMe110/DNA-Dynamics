@@ -28,13 +28,13 @@ DNA Dynamics é um projeto em Perl que lê sequências de DNA de um arquivo CSV,
 
 3. Instale o módulo JSON (caso ainda não tenha):
 ```r 
-- cpan JSON
+cpan JSON
 ```
 
 ## Uso
 Execute o script Perl:
 ```r 
-- perl main.pl
+perl main.pl
 ```
 Após a execução, o script exibirá as informações no terminal e criará um arquivo DNA_output.json com as informações no formato JSON.
 
